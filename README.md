@@ -1,5 +1,8 @@
 # Nonlinear_structural_analysis_using_ModalDerivatives_Code
 
+Note that because of large data files these were unable to be uploaded. The reader is reffered to the zip-file handed in together with the thesis.
+In here all the scripts containing the code are provided.
+
 The folder named "Functions" contain the functions used in some of the other scripts. 
 It is therefore important that when running the scripts that this folder is added to the path where the script is being run. Otherwise an error will occur.
 
@@ -8,6 +11,7 @@ The script with "standardBasis" in their name are used to simmulate the response
 "TaylorBasis" in their name are used to simmulate the responses using the Taylor basis.
 If "physical" is in the script name it is used to calculate the physical response. The physical response is also calculated in
 some of the script with "StandardBasis" or "TaylorBasis".
+files with "Stab" are files used to analyse the stability of the structure.
 
 The folder named "Bridge section" contains the scripts used to calculate the results regarding the bridge section structure.
 For the scripts with "error" in their name it is important that the Folder "Data" is added to the path for which the script is run.
